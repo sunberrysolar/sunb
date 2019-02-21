@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -426,11 +427,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -482,7 +483,9 @@ h6,
 #header1-1 .mbr-section-title {
   font-family: 'Raleway', sans-serif;
   font-size: 48px;
+  text-align: center;
 }
 #header1-1 .mbr-section-lead {
-  font-size: 32px;
+  font-size: 48px;
+  font-family: 'Raleway', sans-serif;
 }
