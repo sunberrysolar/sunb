@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sunberry AMP",
-    "currentPage": "construire-panneaux-solaires.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -627,7 +627,7 @@
         }
       ]
     },
-    "construire-panneaux-solaires.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Chauffage solaire DIY - Sunberry",
