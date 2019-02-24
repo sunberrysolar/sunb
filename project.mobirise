@@ -42,17 +42,18 @@
     ],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://www.sunberry.fr",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-196x196-128x128.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-86206346-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-86206346-3');\r\n</script>\r\n<script defer type=\"text/javascript\" src=\"//platform-api.sharethis.com/js/sharethis.js#property=58ab687ad390d30011821292&product=sticky-share-buttons\"></script>\r\n",
     "cookiesAlert": "",
     "gdpr": "",
-    "сanonical-url": "",
+    "сanonical-url": "https://www.sunberry.fr",
     "uniqCompNum": 26,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "page1.html": {
